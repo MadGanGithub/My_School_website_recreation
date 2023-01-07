@@ -1,0 +1,206 @@
+body{
+margin: 0px;
+
+}
+
+#forg{
+    font-size: .965rem;
+}
+img{
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+form{
+    float: right;
+    
+}
+
+#name{
+margin-top: 40px;
+margin-right: 40px;
+
+background: rgba(255,255,255,.9);
+    border: 1px solid #e9e9e9;
+    
+    
+    color: #646464;
+    display: inline-block;
+    height: 34px;
+    
+    
+    width: 160px;
+}
+
+
+#pass{
+margin-right: 20px;
+margin-left: -40px;
+background: rgba(255,255,255,.9);
+    border: 1px solid #e9e9e9;
+    
+    
+    color: #646464;
+    display: inline-block;
+    height: 34px;
+    
+    
+    width: 160px;
+}
+
+
+
+
+
+
+#gg{
+    background-color: #8ec63f;
+padding: 5.7px 15px 8px 15px ;
+margin-left: -20px;
+
+margin-right: 70px;
+text-decoration: none;
+font-size: 1.15em;
+color: azure;
+}
+
+.mana{
+    float:right;
+    text-decoration: none;
+    clear: both;
+    margin-right: 70px;
+    margin-top: -10px;
+}
+
+
+
+#ii{
+    color: #035CB9;
+    border-width: 2px;
+    border-style: solid;
+    margin: 0%;
+}
+
+.menu{
+    background-color: #3a454b;
+    list-style:none ;
+
+}
+
+ ul.menu li {
+    
+    font-family: sans-serif;
+    display: inline-block;
+    height: 30px;
+    font-size: 13px;
+    padding-top: 21px;
+
+   margin-right: -4px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+li.opp{
+    background-color: #035CB9;
+    margin-left: 39px;
+    
+}
+
+li.oppt:hover{
+background-color: #035CB9;
+
+
+}
+a.mana:hover{
+    color: black;
+}
+
+a.likn:any-link{
+    text-decoration: none;
+    color: white;
+}
+
+ul.navtwo li{
+list-style: none;
+background-color: #F2F2F2;
+padding: 10px;
+width: 200px;
+
+
+}
+
+li#hom{
+    font-size: 13px;
+    font-weight: 700;
+}
+li#sea{
+    list-style: square;
+}
+li#sit{
+    list-style: none;
+}
+
+li#sea, #sit, #cou{
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.nn{
+text-align: center;
+background-color: #F2F2F2;
+width: 273px;
+height: 30px;
+padding-top: 0px;
+margin-bottom: 0px;
+font-size: 1.23em;
+    font-weight: 700;
+}
+
+#hor{
+    width: 220px;
+    background-color: #F2F2F2;
+    margin: 0px;
+    margin-right: 20px;
+    
+}
+
+#nac{
+    float: right;
+    margin-right: 70px;
+    background-color:#F2F2F2 ;
+    padding: 8px;
+    margin-bottom: 20px;
+    
+}
+
+#mm{
+    clear: both;
+    background-color: #323A45;
+    padding: 20px 111px;
+    
+    
+}
+
+#mad{
+    width: 293px;
+    margin-left: 0px;
+}
+
+.kaka{
+    color: #f2f2f2;
+    font-size: 1.23em;
+    font-weight: 700;
+    margin: 0cm;
+    margin-top: 30px;
+}
+
+#blue{
+    border:2px solid #035CB9;
+     clear: both;
+
+margin: 0px;
+}
+
+.abo{
+    color: #bdc3c7;
+}
+
